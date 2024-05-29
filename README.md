@@ -18,3 +18,12 @@
   </tr>
 </table>
 <br>
+
+<br>
+<h1> Hasil Latihan Dan Tugas Nya </h1>
+<br><br>
+
+![Deskripsi Gambar](hasil_latihan.png) <br><br>
+![Deskripsi Gambar](hasil_tugas.png)<br><br>
+
+
